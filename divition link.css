@@ -1,0 +1,35 @@
+.headline{background:#444; color:white; font-size:40px; font-family:arial black; text-align:center }
+	
+.menu{background:#ddd; color:black; font-size:16px; font-family:arial; padding:2px;text-align:center}
+	
+.footer{background:.0gray; color:black; font-size:16px; font-family:arial; text-align:center;}
+
+.sidebar{background:black; color:white; font-size:16px; width:241px;height:111; float:left}
+
+.contentarea{background:white; color:black;text-align:center; font-size:16px; width:729px; height:270px; float:right}
+
+.country{width:970px;margin:auto}
+
+.sidebarandcontentarea {overflow:hidden}
+
+.registration1{background:gray; color:black;width:970px;margin:auto;text-align:center;padding:1px }
+
+.registration2{background:gray; color:black;width:50px;padding:1px }
+
+.registration3{background:gray; color:black;width:970px;margin:auto;text-align:center;padding:1px }
+
+
+
+.learningenglish2{width:970px;margin:auto;background:gold; color:black }
+
+.learningenglish3{width:970px;margin:auto;background:gold; color:black;text-align:center }
+
+.learningenglish4{width:970px;margin:auto;background:gold; color:black }
+
+.0{; }
+
+.s{text-transform:uppercase;font-family:arial black   }
+
+.ss{font-family:arial black;text-transform:lowercase   }
+
+.sss{font-family:arial black;text-transform:capitalize   }
